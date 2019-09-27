@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #272a35 !important;
   }
   #fh5co-header #navbar li a span:before {
-    background: transparent !important;
+    background: transparent ;
   }
   #fh5co-header #navbar li.active a {
     background: transparent;
