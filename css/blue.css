@@ -499,7 +499,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #00bff3;
 }
 #fh5co-our-services .box .icon.colored-3 {
-  background: #f26522;
+  background: #272a35;
 }
 #fh5co-our-services .box .icon.colored-4 {
   background: #e52b50;
@@ -1095,7 +1095,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .row-bottom-padded-lg {
-  padding-bottom: 7em;
+  padding-bottom: 2em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-lg {

@@ -6,7 +6,7 @@ $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
 $brand-primary: #272a35 !default;
-$brand-secondary: #f26522 !default; 
+$brand-secondary: #272a35 !default; 
 
 
 
@@ -549,7 +549,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-intro {
 	position: relative;
 	bottom: 0;
-	margin-top: -150px;
+	margin-top: -50px;
 	z-index: 10;
 	padding-bottom: 7em;
 	@media screen and (max-width: $screen-sm) {
@@ -560,13 +560,13 @@ h1, h2, h3, h4, h5, h6 {
 		@include flexwrap;
 	}
 	.fh5co-block {
-		width: 33.33%;
+		width: 20%;
 		float: left;
 		text-align: center;
 		font-size: 16px;
-		min-height: 300px;
+		min-height: 200px;
 		vertical-align: middle;
-		padding: 40px;
+		padding: 25px;
 		background: $brand-white;
 		-webkit-box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
 		-moz-box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
@@ -1433,7 +1433,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 .row-bottom-padded-lg {
-	padding-bottom: 7em;
+	padding-bottom: 2em;
 	@media screen and (max-width: $screen-sm ) {
 		padding-bottom: 2em;
 	}

@@ -457,9 +457,9 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-intro {
   position: relative;
   bottom: 0;
-  margin-top: -150px;
+  margin-top: -110px;
   z-index: 10;
-  padding-bottom: 7em;
+  padding-bottom: 1em;
 }
 @media screen and (max-width: 768px) {
   #fh5co-intro {
@@ -475,15 +475,16 @@ h1, h2, h3, h4, h5, h6 {
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   -moz-flex-wrap: wrap;
+  
 }
 #fh5co-intro .fh5co-block {
-  width: 33.33%;
+  width: 5%;
   float: left;
   text-align: center;
   font-size: 16px;
-  min-height: 300px;
+  min-height: 70px;
   vertical-align: middle;
-  padding: 40px;
+  padding: 0px;
   background: #fff;
   -webkit-box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
   -moz-box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
@@ -531,7 +532,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-intro .fh5co-block > .fh5co-text .fh5co-intro-icon {
   font-size: 50px;
   color: #272a35;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
   display: block;
 }
 #fh5co-intro .fh5co-block h2 {
@@ -1375,9 +1376,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .row-bottom-padded-lg {
-  padding-bottom: 7em;
+  padding-bottom: 2em;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 568px) {
   .row-bottom-padded-lg {
     padding-bottom: 2em;
   }
@@ -1386,7 +1387,7 @@ h1, h2, h3, h4, h5, h6 {
 .row-bottom-padded-md {
   padding-bottom: 4em;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 568px) {
   .row-bottom-padded-md {
     padding-bottom: 2em;
   }

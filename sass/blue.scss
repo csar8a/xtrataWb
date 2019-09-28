@@ -593,7 +593,7 @@ h1, h2, h3, h4, h5, h6 {
 				background: #00bff3;
 			}
 			&.colored-3 {
-				background: #f26522;
+				background: #272a35;
 			}
 			&.colored-4 {
 				background: #e52b50;
@@ -1176,7 +1176,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 .row-bottom-padded-lg {
-	padding-bottom: 7em;
+	padding-bottom: 2em;
 	@media screen and (max-width: $screen-sm ) {
 		padding-bottom: 2em;
 	}
