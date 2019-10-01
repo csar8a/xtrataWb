@@ -15,7 +15,7 @@ $brand-black: #000;
 $brand-darker: #444;
 $brand-gray: #ccc;
 $brand-lighter: #e9e9e9;
-$brand-body-color: #818892;
+$brand-body-color: #272a35;
 $brand-selection-color: #f9f6f0;
 $brand-overlay-color: #3b3d40;
 $brand-bg-color: $brand-white;
@@ -200,7 +200,7 @@ body {
 	font-size: 20px;
 	line-height: 1.5;
 	color: lighten($brand-darker, 20%);
-	color: #7f7f7f;
+	color: #272a35;
 	background: $brand-bg-color;
 	height: 100%;
 	position: relative;
@@ -1264,7 +1264,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer {
 	padding: 50px 0;
-	color: #7f7f7f;
+	color: #272a35;
 	position: relative;
 	// color: #d6d6d6;btn
 	.gotop {

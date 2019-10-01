@@ -17,7 +17,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   color: #777777;
-  color: #7f7f7f;
+  color: #272a35;
   background: #fff;
   height: 100%;
   position: relative;
@@ -45,17 +45,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::-webkit-selection {
-  color: #818892;
+  color: #272a35;
   background: #f9f6f0;
 }
 
 ::-moz-selection {
-  color: #818892;
+  color: #272a35;
   background: #f9f6f0;
 }
 
 ::selection {
-  color: #818892;
+  color: #272a35;
   background: #f9f6f0;
 }
 
@@ -457,7 +457,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 30px;
   background: #fff;
   text-align: center;
-  color: #7f7f7f;
+  color: #272a35;
   margin-bottom: 70px;
   position: relative;
 }
@@ -751,7 +751,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer {
   padding: 50px 0;
-  color: #7f7f7f;
+  color: #272a35;
 }
 #footer .copyright {
   margin-bottom: 0px;
