@@ -485,7 +485,7 @@ h1, h2, h3, h4, h5, h6 {
   min-height: 70px;
   vertical-align: middle;
   padding: 0px;
-  background: #fff;
+  
 
   z-index: 7;
   flex-grow: 1;
@@ -548,8 +548,11 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-intro .fh5co-block:hover h2, #fh5co-intro .fh5co-block:focus h2 {
   color: #f26522;
 }
+#fh5co-intro .fh5co-block:hover a, #fh5co-intro .fh5co-block:focus a {
+  color: #f26522;
+}
 #fh5co-intro .fh5co-block:hover .btn, #fh5co-intro .fh5co-block:focus .btn {
-  border: 2px solid #fff !important;
+ 
   background: transparent;
 }
 #fh5co-intro .fh5co-block:hover .btn:hover, #fh5co-intro .fh5co-block:focus .btn:hover {
